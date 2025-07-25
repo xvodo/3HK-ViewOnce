@@ -26,3 +26,5 @@ scrcpy.exe
 ---
 ## Tutorial 
 🎥 Watch the video below for a step-by-step tutorial.
+
+https://github.com/user-attachments/assets/b25ff1ae-72a2-4b0a-ac8d-90920a4ef792
